@@ -1,0 +1,8 @@
+{
+  "prompt": "A hyper-realistic, cinematic close-up of an ancient, open book where the ink on the pages is alive, swirling like a dark whirlpool and evaporating into a faint grey mist. The book is resting on a weathered wooden table in a silent, moonlit library. The vanishing ink represents the 'final words' of a dying language. The atmosphere is heavy with the feeling of irreversible loss and cultural silence. No legends, no charts, no text other than the swirling ink. Dramatic lighting, deep shadows, premium textures. 1024px short side.",
+  "model": "DALL·E 3 (via ChatGPT PLUS)",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
+  "dataset_url": "https://en.unesco.org/languages-atlas",
+  "insight": "The irreversible silence following the death of the last speaker of a critically endangered language.",
+  "publish_email": true
+}
